@@ -13,7 +13,7 @@
 #include<iostream>
 #include<conio.h>
 #include<string.h>
-#include<graphics>
+#include<graphics.h>
 #include<dos.h>
 #include<stdio.h>
 #include<fstream>
