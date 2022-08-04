@@ -15,6 +15,7 @@ int main()
             cout<<--ch;    
         cout<<"\n";    
         ch='A';    
-    }    
+    }  
+    system("pause");re  
 return 0;  
 }  
