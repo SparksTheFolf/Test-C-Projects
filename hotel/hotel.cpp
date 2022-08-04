@@ -16,9 +16,9 @@
 #include<graphics.h>
 #include<dos.h>
 #include<stdio.h>
-#include<fstream>
-#include<iomanip>
-#include<stdlib>
+#include<fstream.h>
+#include<iomanip.h>
+#include<stdlib.h>
  
  
 //********************************************
